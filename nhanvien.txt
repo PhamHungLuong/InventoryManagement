@@ -1,0 +1,45 @@
+NV2
+Bui Hong Quan
+Nam
+Ha Tay
+2/2/2002
+quanbui
+12345678
+Nhân viên
+online
+NV3
+Pham Hung Luong
+Nam
+Ha Tay
+2/2/2002
+luongpham
+68686868
+Nhân Viên
+online
+NV4
+Pham Thi Anh
+Nu
+Ha Tay
+2/2/2002
+anhxa
+86868686
+Nhân viên
+offline
+NV6
+Nguyen Duy Anh
+Nam
+Ha Tay
+2/2/2002
+duyanhdeptrai
+17062002
+Quản lý
+online
+NV9
+AAAAxxxxh
+AA
+AAAA
+AA
+AA
+AA
+Nhân viên
+offline
